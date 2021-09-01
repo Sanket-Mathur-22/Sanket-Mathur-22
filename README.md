@@ -10,6 +10,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanket-Mathur-22&theme=dark&show_icons=true)](https://github.com/Sanket-Mathur-22/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Mathur-22&layout=compact&theme=dark)](https://github.com/Sanket-Mathur-22/github-readme-stats)
+
+
 
 
 
